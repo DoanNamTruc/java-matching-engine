@@ -1,6 +1,5 @@
-## java-matching-engine
 ## Basic Core Matching
-#Features
+# Features
 
 Latency: ~33 microseconds per order
 (≈100,000 orders processed in 3–4 seconds)
@@ -11,7 +10,7 @@ Snapshot & recovery support
 
 Fast recovery: restore from snapshot only (no replay log re-execution)
 
-#Technology Stack
+# Technology Stack
 
 Java 21
 
